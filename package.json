@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gustavogaspar/estudoRobos/issues"
   },
-  "homepage": "https://github.com/gustavogaspar/estudoRobos#readme"
+  "homepage": "https://github.com/gustavogaspar/estudoRobos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
