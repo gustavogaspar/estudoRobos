@@ -1,0 +1,22 @@
+{
+  "name": "estudorobos",
+  "version": "1.0.0",
+  "description": "Este projeto é referente a um estudo pessoal sobre robos e interação entre eles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavogaspar/estudoRobos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavogaspar/estudoRobos/issues"
+  },
+  "homepage": "https://github.com/gustavogaspar/estudoRobos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
